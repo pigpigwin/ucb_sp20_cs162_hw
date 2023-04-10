@@ -2,7 +2,7 @@ Hi.
 
 $$
 
-It's 18:40 Beijing time
+It's 18:40 now
 
 got it 
 
