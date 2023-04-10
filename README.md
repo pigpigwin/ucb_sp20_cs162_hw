@@ -1,8 +1,7 @@
 Hi.
 
 $$
-
-It's 18:40 Beijing time
+It's 18:40 Beijing time1
 
 got it 
 
